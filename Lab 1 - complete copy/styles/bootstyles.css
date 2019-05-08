@@ -1,0 +1,30 @@
+h1 {
+    font-family: Herculanum;
+}
+body {
+    background-color: #0f6674;
+    color: white;
+}
+.links {
+    text-align: center;
+    font-family: Herculanum;
+}
+.Tableau {
+    font-family: Athelas;
+}
+.Footer {
+    font-family: monospace;
+    text-align: right;
+}
+#answer {
+    display: none;
+}
+#joke {
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+}
+button {
+    background-color: black;
+    color: white;
+}

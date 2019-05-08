@@ -1,0 +1,58 @@
+nav {
+    font-family: "Bookman Old Style";
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin: 0px;
+}
+
+body {
+    color: white;
+    background-color: black;
+    font-family: "Bookman Old Style";
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 300%;
+    /*background-color: dimgrey;*/
+    padding: 15px;
+}
+
+button {
+    font-family: "Bookman Old Style";
+    color: white;
+    border-radius: 4px;
+    background-color: black;
+    font-size: 150%;
+}
+
+button:hover {
+    background-color: dimgrey;
+}
+
+section {
+    width: 40%;
+    padding: 15px;
+    /*display: table;*/
+    margin: 0;
+    max-width: none;
+    background-color: black;
+}
+
+#experienceList {
+    width: 40%;
+    padding: 15px;
+    /*display: table;*/
+    margin: 0;
+    max-width: none;
+    background-color: red;
+    color: ghostwhite;
+    font-size: large;
+}
+
+p {
+    font-size: larger;
+}
